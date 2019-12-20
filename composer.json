@@ -29,7 +29,7 @@
     ],
     "require": {
         "yiisoft/yii2": "^2.0",
-        "mrsoltany/wysiwyg-editor": "^2.7.3",
+        "froala/wysiwyg-editor": "^2.7.3",
         "rmrevin/yii2-fontawesome": "^2.0"
     },
     "autoload": {
